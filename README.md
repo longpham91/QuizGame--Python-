@@ -1,2 +1,2 @@
-QuizGame--Python-
+Quiz Game [Python]
 =================
